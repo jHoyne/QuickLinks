@@ -1,0 +1,4 @@
+table{width:555px; overflow:scroll; table-layout:auto;}
+caption{caption-side:top;}
+tr{width:550px; overflow:inherit;}
+td{width:25%; overflow:inherit;}
