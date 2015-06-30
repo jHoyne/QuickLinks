@@ -4,7 +4,7 @@
     "name": "QuickLinks",
     "short_name":"QL",
     "description": "Quick Links",
-    "version": "0.0.91",
+    "version": "0.0.92",
     "minimum_chrome_version": "38.0",
     "omnibox": { "keyword" : "QL"},
     "options_page": "src/html/options.html",
